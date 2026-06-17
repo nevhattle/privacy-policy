@@ -1,0 +1,25 @@
+Privacy Policy for Real Friends Connect
+
+Effective Date: 17/06/2026
+
+Last Updated: 17/06/2026
+
+1. IntroductionReal Friends Connect ("we," "our," or "us") is committed to protecting your privacy. This policy explains how we collect, use, and share personal information when you use our mobile application, Shop MATE, and our associated services.  
+
+2. Information We CollectWe collect information to provide better services to all our users. This includes:  Information You Provide: Such as your name, email address, [add any other provided info like budget data or profile details].  Device & Usage Data: Unique device identifiers, IP address, device model, operating system, and app interaction data.  Financial & Sensitive Data: [List if you collect payment info, bank details, or pantry/inventory lists].  Location Data: [State if you collect precise or approximate location].  
+
+3. How We Use Your InformationWe use the collected information for purposes such as:  Providing, maintaining, and improving the Shop MATE ecosystem.  Processing transactions and managing your budget/financial planning features.  Communicating with you about updates or support.  Ensuring the security and integrity of our services.  
+
+4. Data Sharing and Third PartiesWe do not sell your personal data. We may share information with third parties only in the following limited circumstances:  Service Providers: With vendors who perform services on our behalf (e.g., analytics, cloud storage, payment processing).  Legal Requirements: To comply with applicable laws, regulations, or legal processes.  
+
+5. Your RightsDepending on your location (e.g., UK GDPR), you have specific rights regarding your data, including the right to:  Access, correct, or request deletion of your personal data.  Withdraw consent for data processing.  Object to or restrict our use of your data.To exercise these rights, please contact us at [Insert Contact Email].  
+
+6. Data Security and RetentionWe implement industry-standard security measures, including encryption and anonymization, to protect your data. We retain your data only for as long as necessary to fulfill the purposes outlined in this policy.  
+
+7. Updates to This PolicyWe may update this policy periodically. We will notify you of significant changes via an in-app notification or email. 
+
+8. Contact UsIf you have questions about this Privacy Policy, 
+
+please contact:App Owner: Nevin Hattle, Nevs Apps, Talbot Road, South Shields, Tyne and Wear, NE34 0QJ
+
+Email: nevsapps@gmail.com
